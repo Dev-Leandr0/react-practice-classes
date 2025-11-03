@@ -1,2 +1,15 @@
-# react-practice-classes
-Practical exercises and projects developed while learning React.js. Each branch represents a class from the course, including examples of components, hooks, state management, routing, and API consumption.
+# ⚛️ React Course Exercises
+
+Este repositorio contiene ejercicios y proyectos prácticos desarrollados durante mi aprendizaje de **React.js**.  
+Cada rama corresponde a una clase del curso e incluye ejemplos de componentes, hooks, manejo de estado, routing y consumo de APIs.
+
+## 🧩 Estructura
+- **main** → Documentación general del curso.
+- **clase-01-introduccion** → Primeros pasos con React.
+
+## 🚀 Objetivo
+Documentar mi progreso y contar con una referencia práctica de los conceptos fundamentales de React.
+
+---
+
+💡 Cada rama contiene su propio proyecto o conjunto de ejercicios según el tema de la clase.
