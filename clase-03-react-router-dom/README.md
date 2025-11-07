@@ -1,16 +1,57 @@
-# React + Vite
+# E commerce Navegación con React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto forma parte del desarrollo de una aplicación de e commerce construida con React. En este punto se implementa la navegación interna utilizando **React Router DOM**, permitiendo a los usuarios moverse entre distintas secciones de la tienda sin recargar la página, manteniendo la experiencia de una **Single Page Application (SPA)**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Funcionalidades Implementadas
 
-## React Compiler
+* Instalación y configuración de **react router dom**.
+* Envoltorio global de la app con **BrowserRouter**.
+* Definición de rutas mediante **Routes** y **Route**.
+* Creación de páginas como Home, Productos y Carrito.
+* Implementación de una **barra de navegación (NavBar)** usando `Link` y `NavLink`.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📦 Instalación
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clona este repositorio y entra en el proyecto:
+
+```bash
+git clone <https://github.com/Dev-Leandr0/react-practice-classes.git>
+cd <react-practice-classes>
+```
+
+Instala las dependencias:
+
+```bash
+npm install
+```
+
+Asegúrate de instalar React Router DOM:
+
+```bash
+npm install react-router-dom
+```
+
+---
+
+## 🚀 Ejecución del Proyecto
+
+Para iniciar el servidor de desarrollo:
+
+```bash
+npm run dev
+```
+
+La aplicación estará disponible en:
+`http://localhost:5173/` (o el puerto configurado por Vite).
+
+
+---
+
+
+## 📚 Notas
+
+Este README resume las tareas solicitadas en el punto 6 del proyecto. Puedes ampliarlo con capturas de pantalla, diagramas o instrucciones extra según evolucione tu aplicación.
