@@ -7,7 +7,7 @@ Cada rama corresponde a una clase del curso e incluye ejemplos de componentes, h
 - **main** → Documentación general del curso.
 - **clase-01-introduccion** → Primeros pasos con React.
 - **feature/clase-02-componentes-y-props** → Componentes, props y renderizado dinámico de usuarios.
-- **clase-03-react-router-dom** → React Router DOM (rutas, navegación y lazy loading.
+- **feature/clase-03-react-router-dom** → React Router DOM (rutas, navegación y lazy loading.
 
 ## 🚀 Objetivo
 Documentar mi progreso y contar con una referencia práctica de los conceptos fundamentales de React.
