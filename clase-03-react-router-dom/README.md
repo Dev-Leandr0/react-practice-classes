@@ -1,4 +1,4 @@
-# E commerce Navegación con React Router
+# ⚛️ E commerce Navegación con React Router
 
 Este proyecto forma parte del desarrollo de una aplicación de e commerce construida con React. En este punto se implementa la navegación interna utilizando **React Router DOM**, permitiendo a los usuarios moverse entre distintas secciones de la tienda sin recargar la página, manteniendo la experiencia de una **Single Page Application (SPA)**.
 
