@@ -1,0 +1,11 @@
+import React from 'react'
+import Navbar from './NavBar'
+
+function Home() {
+  return (
+    <div>
+      Soy el home</div>
+  )
+}
+
+export default Home
