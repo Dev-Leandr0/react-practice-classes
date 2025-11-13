@@ -7,6 +7,8 @@ import ViewUseEffect from './components/View/ViewUseEffect'
 import ViewUseContext from './components/View/ViewUseContext';
 import UseContextExample from './hooks/UseContextExample';
 import Home from './components/View/Home';
+import ViewUseRef from './components/View/ViewUseRef';
+import ViewUseCustom from './components/View/ViewUseCustom';
 
 function App() {
 
@@ -30,6 +32,8 @@ function App() {
               </UseContextExample>
             }
           /> */}
+          <Route path="/useRef" element={<ViewUseRef />} />
+          <Route path="/useCustom" element={<ViewUseCustom />} />
         </Routes>
       </UseContextExample>
     </>
